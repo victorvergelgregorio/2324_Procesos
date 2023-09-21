@@ -20,6 +20,8 @@ public class HolaMundo {
 		System.out.println("Hola mundo en Eclipse");
 		int a=20;
 		System.out.println(a);
+		
+		System.out.println("Ahora con GitHub");
 	}
 
 }
